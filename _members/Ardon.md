@@ -1,11 +1,11 @@
 ---
-fullname: Ardon M Pillay
+fullname: Marguerite Laprie-Sentenac
 layout: members
-position: Doctoral Scientist (MB-PhD)
+position: Doctoral Scientist (PharmD)
 tier: d
 picture: ardon.jpg
-email: amp214@cam.ac.uk 
-pubmed_searchterm: pillay am [author] 
+email: marguerite.laprie-sentenac@gustaveroussy.fr
+pubmed_searchterm: laprie-sentenac m [author] 
 ---
 Ardon completed his pre-clinical medical training at the University of Cambridge, graduating top of his year with a BA in Pharmacology. During his undergraduate studies, he undertook a research project in the Pharmacology department, studying the mechanisms by which IL-6 sensitises nociceptors. 
 
